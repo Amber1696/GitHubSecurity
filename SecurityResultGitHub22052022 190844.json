@@ -1,0 +1,59 @@
+[
+  {
+    "title": "aspnet/Security",
+    "description": "[Archived] Middleware for security and authorization of web apps. Project moved to https://github.com/aspnet/AspNetCore",
+    "tags": [
+      "aspnet-product"
+    ],
+    "stars": "1.2k",
+    "language": "C#",
+    "licencedBy": "Apache-2.0 license",
+    "updateTime": "Updated on Nov 22, 2018"
+  },
+  {
+    "title": "xapax/security",
+    "description": "Stuff about it-security that might be good to know",
+    "tags": [],
+    "stars": "799",
+    "language": "CSS",
+    "licencedBy": "",
+    "updateTime": "Updated on Dec 17, 2020"
+  },
+  {
+    "title": "jojozhai/security",
+    "description": "",
+    "tags": [],
+    "stars": "580",
+    "language": "JavaScript",
+    "licencedBy": "",
+    "updateTime": "Updated on May 14, 2021"
+  },
+  {
+    "title": "spring-projects/spring-security",
+    "description": "Spring Security",
+    "tags": [
+      "java",
+      "security",
+      "framework",
+      "spring",
+      "spring-framework"
+    ],
+    "stars": "6.8k",
+    "language": "Java",
+    "licencedBy": "Apache-2.0 license",
+    "updateTime": "Updated 4 days ago"
+  },
+  {
+    "title": "numirias/security",
+    "description": "Some of my security stuff and vulnerabilities. Nothing advanced. More to come.",
+    "tags": [
+      "security",
+      "pentesting",
+      "appsec"
+    ],
+    "stars": "848",
+    "language": "",
+    "licencedBy": "",
+    "updateTime": "Updated on Jun 11, 2019"
+  }
+]
